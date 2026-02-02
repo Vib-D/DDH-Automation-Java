@@ -5,5 +5,4 @@ using Selenium with Java, TestNG, and Maven.
 
 ## Goals
 - Learn automation testing concepts
-- Follow professional Git workflow
-- Push daily commits to GitHub
+
