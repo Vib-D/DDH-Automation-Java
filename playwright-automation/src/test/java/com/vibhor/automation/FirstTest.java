@@ -10,7 +10,7 @@ public class FirstTest {
             );
 
             Page page = browser.newPage();
-            page.navigate("https://example.com");
+            page.navigate("https://google.com");
             System.out.println(page.title());
 
             browser.close();
