@@ -43,11 +43,10 @@ public class BaseTest {
             browser = playwright.webkit().launch(new com.microsoft.playwright.BrowserType.LaunchOptions().setHeadless(false));
             log.info("Webkit Browser Launched!!!");
         } else {
-            log.error("Invalid Browser Name Provided!!!");
+            throw new IllegalArgumentException("Invalid browser name: " + browserName);
         }
         return browser;
     }
-
-
+        
 
 }
