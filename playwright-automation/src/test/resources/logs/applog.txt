@@ -1,2 +1,4 @@
-INFO    2026-02-09 22:13:17,698 [main] base.BaseTest  - Test Execution started !!!
-INFO    2026-02-09 22:13:17,699 [main] base.BaseTest  - OR Properties file loaded.
+INFO    2026-02-09 22:59:29,617 [main] base.BaseTest  - Test Execution started !!!
+INFO    2026-02-09 22:59:29,618 [main] base.BaseTest  - OR Properties file loaded.
+INFO    2026-02-09 22:59:33,543 [main] testcases.LoginTest  - Launching Chrome browser
+INFO    2026-02-09 22:59:39,061 [main] testcases.LoginTest  - Navigated to : https://google.com
